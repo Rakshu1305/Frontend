@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Paragraph
+</title>
+</head>
+<body>
+Hi all.This is my first set of codes in HTML using paragraphs
+ <h1>Welcome to My Webpage</h1>
+    <p>This is a simple paragraph. You can use this space to write and display text content on your webpage. Customize it as needed for your specific content and styling preferences.</p>
+</body>
+</html>
